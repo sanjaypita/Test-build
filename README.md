@@ -1,2 +1,0 @@
-# Test-build
-Java-selenium
